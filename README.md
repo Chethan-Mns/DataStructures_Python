@@ -28,7 +28,7 @@ Feel free to explore each data structure to learn more about their implementatio
 
 ## Contribution
 
-If you would like to contribute to this project by improving the model, adding new features, or fixing issues, please feel free to submit pull requests. Contributions are welcome and encouraged.
+If you would like to contribute to this project by adding new features, or fixing issues, please feel free to submit pull requests. Contributions are welcome and encouraged.
 
 ## License
 
