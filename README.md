@@ -7,7 +7,6 @@ This repository contains implementations of various data structures in Python. T
 - [Introduction](#introduction)
 - [Data Structures](#data-structures)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -17,14 +16,15 @@ In this repository, you'll find Python implementations of fundamental data struc
 
 Here are the data structures included in this repository:
 
-- [Linked List](./linked_list.py)
-- [Stack](./stack.py)
-- [Queue](./queue.py)
+- [Linked List](./LinkedList.py)
+- [Stack](./Stack.py)
+- [Queue](./Queue.py)
 - [Binary Search Tree](./BST.py)
+- [Doubly Linked List](./Doubly Linked List.py)
 
 Feel free to explore each data structure to learn more about their implementations.
 
-##Contributing
+## Contributing
 
 If you would like to contribute to this project by adding more data structures, improving existing implementations, or fixing issues, please feel free to submit pull requests. Contributions are welcome and appreciated!
 
