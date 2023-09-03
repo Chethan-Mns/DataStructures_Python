@@ -16,8 +16,8 @@ In this repository, you'll find Python implementations of fundamental data struc
 
 Here are the data structures included in this repository:
 
-- [Linked List](./LinkedList.py)
-- [Stack](./Stack.py)
+- [Linked List](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Linked%20List)
+- [Stack](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Stack)
 - [Queue](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Queue)
 - [Binary Search Tree](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/BST)
 - [Doubly Linked List](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Doubly%20Linked%20List)
