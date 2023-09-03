@@ -26,6 +26,13 @@ Feel free to explore each data structure to learn more about their implementatio
 
 ## Contributing
 
-If you would like to contribute to this project by adding more data structures, improving existing implementations, or fixing issues, please feel free to submit pull requests. Contributions are welcome and appreciated!
+If you would like to contribute to this project by adding more data structures, improving existing implementations, or fixing issues, please feel free to submit pull requests. Contributions are welcome and 
+appreciated!
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code for your own purposes.
+
+Feel free to customize the README further to include any additional information you think would be helpful for users and contributors.
+
 
 
