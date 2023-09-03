@@ -24,4 +24,8 @@ Here are the data structures included in this repository:
 
 Feel free to explore each data structure to learn more about their implementations.
 
+##Contributing
+
+If you would like to contribute to this project by adding more data structures, improving existing implementations, or fixing issues, please feel free to submit pull requests. Contributions are welcome and appreciated!
+
 
