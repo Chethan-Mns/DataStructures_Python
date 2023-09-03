@@ -25,15 +25,16 @@ Here are the data structures included in this repository:
 
 Feel free to explore each data structure to learn more about their implementations.
 
+
 ## Contribution
 
-If you would like to contribute to this project by adding more data structures, improving existing implementations, or fixing issues, please feel free to submit pull requests. Contributions are welcome and 
-appreciated!
+If you would like to contribute to this project by improving the model, adding new features, or fixing issues, please feel free to submit pull requests. Contributions are welcome and encouraged.
 
 ## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code for your own purposes.
 
-Feel free to customize the README further to include any additional information you think would be helpful for users and contributors.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for your own purposes.
+
+Customize the README further to include any additional information or details specific to your project.
 
 
 
