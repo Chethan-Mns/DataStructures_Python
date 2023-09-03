@@ -22,6 +22,7 @@ Here are the data structures included in this repository:
 - [Queue](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Queue)
 - [Binary Search Tree](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/BST)
 - [Doubly Linked List](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Doubly%20Linked%20List)
+- [Sorting](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Sorting)
 
 Feel free to explore each data structure to learn more about their implementations.
 
