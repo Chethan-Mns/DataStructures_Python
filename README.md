@@ -6,7 +6,8 @@ This repository contains implementations of various data structures in Python. T
 
 - [Introduction](#introduction)
 - [Data Structures](#data-structures)
-- [Contributing](#contributing)
+- [Contribution](#contribution)
+- [License](#License)
 
 ## Introduction
 
@@ -24,7 +25,7 @@ Here are the data structures included in this repository:
 
 Feel free to explore each data structure to learn more about their implementations.
 
-## Contributing
+## Contribution
 
 If you would like to contribute to this project by adding more data structures, improving existing implementations, or fixing issues, please feel free to submit pull requests. Contributions are welcome and 
 appreciated!
