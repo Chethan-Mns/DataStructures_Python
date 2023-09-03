@@ -18,9 +18,9 @@ Here are the data structures included in this repository:
 
 - [Linked List](./LinkedList.py)
 - [Stack](./Stack.py)
-- [Queue](./Queue.py)
-- [Binary Search Tree](./BST.py)
-- [Doubly Linked List](./Doubly Linked List.py)
+- [Queue](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Queue)
+- [Binary Search Tree](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/BST)
+- [Doubly Linked List](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Doubly%20Linked%20List)
 
 Feel free to explore each data structure to learn more about their implementations.
 
