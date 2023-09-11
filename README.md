@@ -26,6 +26,7 @@ Here are the data structures included in this repository:
 - [Graphs](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Graphs)
 - [Hash Tables](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Hash%20Tables)
 - [Sets](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Sets)
+- [Heaps](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Heaps)
   
 Feel free to explore each data structure to learn more about their implementations.
 
