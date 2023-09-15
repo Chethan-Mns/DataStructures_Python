@@ -38,7 +38,7 @@ If you would like to contribute to this project by adding new features, or fixin
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for your own purposes.
+This is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for your own purposes.
 
 Customize the README further to include any additional information or details specific to your project.
 
