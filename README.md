@@ -17,12 +17,13 @@ In this repository, you'll find Python implementations of fundamental data struc
 
 Here are the data structures included in this repository:
 
-- [Linked List](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Linked%20List)
+- [Searching](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Searching)
+- [Sorting](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Sorting)
 - [Stack](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Stack)
 - [Queue](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Queue)
-- [Binary Search Tree](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/BST)
+- [Linked List](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Linked%20List)
 - [Doubly Linked List](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Doubly%20Linked%20List)
-- [Sorting](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Sorting)
+- [Binary Search Tree](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/BST)
 - [Graphs](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Graphs)
 - [Hash Tables](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Hash%20Tables)
 - [Sets](https://github.com/Chethan-Mns/DataStructures_Python/tree/main/Sets)
